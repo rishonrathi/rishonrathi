@@ -19,6 +19,6 @@
 - **Scope:** Detailed research and breakdown of essential networking protocols and security models.
 - **Key Focus:** Analyzing how data travels securely across networks.
 
-### 2. [TryHackMe-Lab-Writeups](link-to-your-repo-2)
+### 2. [TryHackMe-Lab-Writeups]()
 - **Scope:** Verifiable step-by-step documentation of completed hands-on beginner labs.
 - **Key Focus:** Linux Fundamentals and basic network scanning tools.

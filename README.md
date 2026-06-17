@@ -15,7 +15,7 @@
 
 ## 📂 Active Repositories & Evidence of Work
 
-### 1. [Cybersecurity-Concepts-and-Protocols](link-to-your-repo-1)
+### 1. [Cybersecurity-Concepts-and-Protocols](https://github.com/rishonrathi/cybersecurity-foundations)
 - **Scope:** Detailed research and breakdown of essential networking protocols and security models.
 - **Key Focus:** Analyzing how data travels securely across networks.
 

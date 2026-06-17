@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🏆 Verified Credentials & Certifications
+*A record of structured training completed through recognized academic and industry bodies.*
 
-<!--
-**rishonrathi/rishonrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Cybersecurity Foundational Training**  
+  *Issued by:* Tech Mahindra Foundation × National Association of Software and Services Companies (NASSCOM)  
+  *Platform:* Skill India Hub  
+  *Key Areas:* Industry-aligned security fundamentals, corporate compliance basics.  
+  *Verification:* [https://drive.google.com/file/d/1IltW6g2iRLe7czfjpW2gwKAOuVdUkBVT/view?usp=drive_link]
+                  [https://drive.google.com/file/d/1VTXEigEZABDen3NuXdg8t90ywg8IezjY/view?usp=drive_link]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cybersecurity Fundamentals / Specialized Course**  
+  *Issued by:* Great Learning Academy  
+  *Key Areas:* Core security concepts, network defense baselines, threat overview.  
+  *Verification:* [https://drive.google.com/file/d/1Yp4uTmzeZKqhLrazsA2a6-OhQu_-rpxn/view?usp=drive_link]

@@ -1,6 +1,11 @@
 ## 🏆 Verified Credentials & Certifications
 *A record of structured training completed through recognized academic and industry bodies.*
 
+- **Google Cybersecurity Professional Certificate**  
+  *Issued by:* Google via Coursera (2026)  
+  *Key Areas:* Network Security (TCP/IP), Linux Terminal Operations, Python Automation Baselines, SIEM Tools, and Packet Analysis.  
+  *Verification:* [https://www.coursera.org/account/accomplishments/certificate/NGIEODMIDB4S]
+
 - **Cybersecurity Foundational Training**  
   *Issued by:* Tech Mahindra Foundation × National Association of Software and Services Companies (NASSCOM)  
   *Platform:* Skill India Hub  

@@ -47,7 +47,7 @@ The web application features a product filter page where a category query parame
    *The `--` sequence commented out the remainder of the query, forcing the database to evaluate `1=1` (always true) and display every single item in the table.*
 
 ### 📸 Proof of Concept (Screenshot)
-![Retrieving Hidden Data Proof](screenshots/sqli_hidden_data.png)
+![Retrieving Hidden Data Proof](photos/sql_lab_1.png)
 
 ### 🛠️ The Solution
 To remediate this issue, developers must stop concatenating user string inputs directly into SQL commands. Implement **Parameterized Queries (Prepared Statements)**:
@@ -84,7 +84,7 @@ The user login portal verification logic is built with dynamic SQL strings. An a
    *The application logged me directly into the `administrator` dashboard because the password constraint was successfully commented out.*
 
 ### 📸 Proof of Concept (Screenshot)
-![Authentication Bypass Proof](screenshots/sqli_login_bypass.png)
+![Authentication Bypass Proof](screenshots/sql_lab_2.png)
 
 ### 🛠️ The Solution
 The standard fix requires processing credentials strictly as query parameters rather than executable SQL commands. 
@@ -119,7 +119,7 @@ The search query functionality takes user input from the search query parameter 
 4. The web server dynamically built the response page with the raw executable script, forcing the victim's local browser context to execute the alert box popup.
 
 ### 📸 Proof of Concept (Screenshot)
-![Reflected XSS Proof](screenshots/xss_reflected.png)
+![Reflected XSS Proof](screenshots/xss_lab_1.png)
 
 ### 🛠️ The Solution
 Implement **Context-Aware Output Encoding** before rendering variables on the UI, converting dangerous active HTML syntax tags into inert textual entity characters.
@@ -153,7 +153,7 @@ The comment module allows site visitors to submit feedback that gets permanently
 4. When any regular visitor or administrator browses to this specific blog entry, the broken image tag forces an execution error, automatically extracting session tokens.
 
 ### 📸 Proof of Concept (Screenshot)
-
+![Reflected XSS Proof](screenshots/xss_lab_2.png)
 
 ### 🛠️ The Solution
 Apply both server-side **Input HTML Sanitization** (using robust libraries like DOMPurify) and strict **Content Security Policies (CSP)** headers to stop unauthorized script sources.

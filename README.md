@@ -170,7 +170,8 @@ const cleanComment = DOMPurify.sanitize(userInputComment);
 
 ### 💡 What I Learned
 * I discovered that Stored XSS is exponentially more high-risk than Reflected XSS because it operates silently and scales across multiple victim accounts without direct interaction.
-* I realized the value of restricting browser scripts using security policies like the `HttpOnly` cookie flag to mitigate session hijacking via script manipulation.
+* I realized the value of restricting browser scripts using security policies like the `HttpOnly` cookie flag to mitigate session hijacking via script manipulation. 
+
 ## 📂 Active Repositories & Evidence of Work
 
 ### 1. [Cybersecurity-Concepts-and-Protocols](https://github.com/rishonrathi/cybersecurity-foundations)

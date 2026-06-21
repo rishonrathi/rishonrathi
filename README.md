@@ -47,7 +47,8 @@ The web application features a product filter page where a category query parame
    *The `--` sequence commented out the remainder of the query, forcing the database to evaluate `1=1` (always true) and display every single item in the table.*
 
 ### 📸 Proof of Concept (Screenshot)
-![SQL Lab 1](sql lab 1.png)
+<img width="1210" height="579" alt="sql lab 1" src="https://github.com/user-attachments/assets/19c1dbb4-b193-41a1-acfb-a1632b10390c" />
+
 
 ### 🛠️ The Solution
 To remediate this issue, developers must stop concatenating user string inputs directly into SQL commands. Implement **Parameterized Queries (Prepared Statements)**:

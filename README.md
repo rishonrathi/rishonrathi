@@ -179,8 +179,9 @@ const cleanComment = DOMPurify.sanitize(userInputComment);
 - **Key Focus:** Analyzing how data travels securely across networks.
 
 ### 2. [TryHackMe-Lab-Writeups](https://github.com/rishonrathi/tryhackme-lab-logs)
-
-### 3. [🔍 OSINT Labs : Networking, Google Dorks, Shodan, and Recon Tools.](./OSINT-Labs/README.md) 
-
 - **Scope:** Verifiable step-by-step documentation of completed hands-on beginner labs.
 - **Key Focus:** Linux Fundamentals and basic network scanning tools.
+
+### 3. [OSINT-labs](https://github.com/rishonrathi/OSINT-labs)
+- **Scope:** Learning the basics of networking and OSINT.
+- **Key Focus:** Learning networking principles like TCP/IP, DNS etc. and using tools like Shodan for OSINT on known websites.

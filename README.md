@@ -23,6 +23,8 @@
 ## ⚠️ Educational Disclaimer
 All labs were conducted strictly within a controlled, authorized environment for educational and defensive learning purposes.
 
+* [🔍 OSINT Labs](./OSINT-labs/README.md) - Networking, Google Dorks, Shodan, and Recon Tools.
+
 ---
 
 ## 🎯 Lab 1: Retrieving Hidden Data

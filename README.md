@@ -23,8 +23,6 @@
 ## ⚠️ Educational Disclaimer
 All labs were conducted strictly within a controlled, authorized environment for educational and defensive learning purposes.
 
-* [🔍 OSINT Labs](./OSINT-labs/README.md) - Networking, Google Dorks, Shodan, and Recon Tools.
-
 ---
 
 ## 🎯 Lab 1: Retrieving Hidden Data
@@ -181,5 +179,8 @@ const cleanComment = DOMPurify.sanitize(userInputComment);
 - **Key Focus:** Analyzing how data travels securely across networks.
 
 ### 2. [TryHackMe-Lab-Writeups](https://github.com/rishonrathi/tryhackme-lab-logs)
+
+### 3. [🔍 OSINT Labs : Networking, Google Dorks, Shodan, and Recon Tools.](./OSINT-Labs/README.md) 
+
 - **Scope:** Verifiable step-by-step documentation of completed hands-on beginner labs.
 - **Key Focus:** Linux Fundamentals and basic network scanning tools.
